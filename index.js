@@ -9,7 +9,7 @@ function renderMenu(arr) {
       <div class="emoji">${item.emoji}</div>
       <div class="details">
           <h3 class="item-name">${item.name}</h3>
-          <p class="ingredients">${item.ingredients}</p>
+          <p class="ingredients">${item.ingredients.join(", ")}</p>
           <p class="price">$${item.price}</p>
       </div>
       <button id="${item.id}">+</button>
