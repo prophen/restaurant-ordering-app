@@ -1,19 +1,8 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Restaurant Ordering App
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A solo project on Scrimba's Fullstack development path
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+<img width="608" height="1189" alt="screenshot of the ordering app" src="https://github.com/user-attachments/assets/f50cec1f-d343-458f-80f8-b68d0f233c6f" />
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+The app displays a menu, allows customers to add and remove items from their order, and gives a confirmation message once payment is complete.
 
-Happy Coding!
